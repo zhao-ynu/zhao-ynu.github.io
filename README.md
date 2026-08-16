@@ -1,2 +1,2 @@
-# zhaomx-ynu.github.io
+# zhao-ynu.github.io
 Personal Webpage
